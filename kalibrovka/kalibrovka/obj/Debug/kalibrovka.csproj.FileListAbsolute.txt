@@ -1,0 +1,12 @@
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\bin\Debug\kalibrovka.exe.config
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\bin\Debug\kalibrovka.exe
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\bin\Debug\kalibrovka.pdb
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.csproj.ResolveComReference.cache
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.Form1.resources
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.Properties.Resources.resources
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.csproj.GenerateResource.cache
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.exe
+C:\Users\misha\Desktop\Работа\kalibrovka\kalibrovka\obj\Debug\kalibrovka.pdb
